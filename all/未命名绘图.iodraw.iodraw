@@ -372,6 +372,9 @@
             <mxPoint x="-19.99999999999982" y="2.499999999999909" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CIfBq7IbJGcG4Im7G_-H-139" value="Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="700" y="370" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
