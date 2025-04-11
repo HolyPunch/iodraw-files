@@ -372,17 +372,17 @@
             <mxPoint x="-19.99999999999982" y="2.499999999999909" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CIfBq7IbJGcG4Im7G_-H-114" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="160" width="160" height="86" as="geometry" />
+        <mxCell id="CIfBq7IbJGcG4Im7G_-H-126" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="140" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="CIfBq7IbJGcG4Im7G_-H-115" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CIfBq7IbJGcG4Im7G_-H-114">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        <mxCell id="CIfBq7IbJGcG4Im7G_-H-127" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CIfBq7IbJGcG4Im7G_-H-126">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CIfBq7IbJGcG4Im7G_-H-116" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="CIfBq7IbJGcG4Im7G_-H-114">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        <mxCell id="CIfBq7IbJGcG4Im7G_-H-128" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CIfBq7IbJGcG4Im7G_-H-126">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CIfBq7IbJGcG4Im7G_-H-117" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CIfBq7IbJGcG4Im7G_-H-114">
-          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        <mxCell id="CIfBq7IbJGcG4Im7G_-H-129" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CIfBq7IbJGcG4Im7G_-H-126">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
