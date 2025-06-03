@@ -128,6 +128,36 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-59" value="certification_program_knoledge_requirement" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="-230" width="310" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-60" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
+          <mxGeometry y="26" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-61" value="certification_program_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
+          <mxGeometry y="56" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-62" value="badge_path_knowledge_requirement_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
+          <mxGeometry y="86" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-63" value="tenant_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
+          <mxGeometry y="116" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-64" value="create_user" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
+          <mxGeometry y="146" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-65" value="create_time" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
+          <mxGeometry y="176" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-66" value="last_modify_user" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
+          <mxGeometry y="206" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-67" value="last_modified" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
+          <mxGeometry y="236" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-68" value="dr&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
+          <mxGeometry y="266" width="310" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
