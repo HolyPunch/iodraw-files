@@ -134,7 +134,7 @@
         <mxCell id="hD_3MkQZIZw3na5gm1Gx-60" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
           <mxGeometry y="26" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hD_3MkQZIZw3na5gm1Gx-61" value="&lt;span style=&quot;font-size: 14px; text-align: center; text-wrap: nowrap;&quot;&gt;certification_program_knoledge_requirement_id&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-61" value="&lt;span style=&quot;text-align: center; text-wrap: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;certification_program_knoledge_requirement_id&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
           <mxGeometry y="56" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hD_3MkQZIZw3na5gm1Gx-62" value="badge_path_knowledge_requirement_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-59">
