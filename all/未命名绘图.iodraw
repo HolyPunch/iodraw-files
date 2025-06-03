@@ -46,7 +46,7 @@
         <mxCell id="q7MG2EdhxGIf4xNWd8DV-13" value="dr&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="ypMaGFkIt4Ba0E3FsMMa-7">
           <mxGeometry y="386" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q7MG2EdhxGIf4xNWd8DV-50" value="certification_program" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="q7MG2EdhxGIf4xNWd8DV-50" value="class_name" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="170" height="416" as="geometry" />
         </mxCell>
         <mxCell id="q7MG2EdhxGIf4xNWd8DV-51" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="q7MG2EdhxGIf4xNWd8DV-50">
