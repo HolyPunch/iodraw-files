@@ -298,7 +298,7 @@
         <mxCell id="hD_3MkQZIZw3na5gm1Gx-128" value="&lt;span style=&quot;font-size: 12px; text-align: center; text-wrap: nowrap;&quot;&gt;certification_program_id&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-120">
           <mxGeometry y="56" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hD_3MkQZIZw3na5gm1Gx-129" value="&lt;span style=&quot;font-size: 12px; text-align: center; text-wrap: nowrap;&quot;&gt;certification_program_id&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-120">
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-129" value="badge_path_reference_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-120">
           <mxGeometry y="86" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hD_3MkQZIZw3na5gm1Gx-122" value="tenant_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-120">
