@@ -212,7 +212,7 @@
         <mxCell id="hD_3MkQZIZw3na5gm1Gx-98" value="certification_program_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-90">
           <mxGeometry y="56" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hD_3MkQZIZw3na5gm1Gx-100" value="certification_program_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-90">
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-100" value="badge_path_exam_requirement_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-90">
           <mxGeometry y="86" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hD_3MkQZIZw3na5gm1Gx-92" value="tenant_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="hD_3MkQZIZw3na5gm1Gx-90">
