@@ -656,7 +656,7 @@
         <mxCell id="jUDyh1BNVkhnaWFRF4Ow-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jUDyh1BNVkhnaWFRF4Ow-57" target="jUDyh1BNVkhnaWFRF4Ow-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jUDyh1BNVkhnaWFRF4Ow-101" value="class_name" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="jUDyh1BNVkhnaWFRF4Ow-101" value="practical_experience_upload_file" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-840" y="2440" width="170" height="236" as="geometry" />
         </mxCell>
         <mxCell id="jUDyh1BNVkhnaWFRF4Ow-102" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="jUDyh1BNVkhnaWFRF4Ow-101">
