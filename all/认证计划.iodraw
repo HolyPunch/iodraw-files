@@ -665,7 +665,7 @@
         <mxCell id="jUDyh1BNVkhnaWFRF4Ow-109" value="employee_practical_experience_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="jUDyh1BNVkhnaWFRF4Ow-101">
           <mxGeometry y="56" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jUDyh1BNVkhnaWFRF4Ow-110" value="url" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="jUDyh1BNVkhnaWFRF4Ow-101">
+        <mxCell id="jUDyh1BNVkhnaWFRF4Ow-110" value="file_url" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="jUDyh1BNVkhnaWFRF4Ow-101">
           <mxGeometry y="86" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jUDyh1BNVkhnaWFRF4Ow-111" value="file_name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="jUDyh1BNVkhnaWFRF4Ow-101">
