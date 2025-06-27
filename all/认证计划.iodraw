@@ -257,7 +257,7 @@
         <mxCell id="hD_3MkQZIZw3na5gm1Gx-111" value="badge_path_exam_arrangement_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="hD_3MkQZIZw3na5gm1Gx-101" vertex="1">
           <mxGeometry y="86" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hD_3MkQZIZw3na5gm1Gx-112" value="exam_format" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="hD_3MkQZIZw3na5gm1Gx-101" vertex="1">
+        <mxCell id="hD_3MkQZIZw3na5gm1Gx-112" value="&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="hD_3MkQZIZw3na5gm1Gx-101" vertex="1">
           <mxGeometry y="116" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hD_3MkQZIZw3na5gm1Gx-113" value="start_time" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="hD_3MkQZIZw3na5gm1Gx-101" vertex="1">
